@@ -1,0 +1,9 @@
+git --version
+
+git config --global user.name "Test test"
+git config --global user.email "email"
+
+mkdir nomrepertoire
+cd nomrepertoire
+
+git init
