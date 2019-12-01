@@ -7,3 +7,11 @@ mkdir nomrepertoire
 cd nomrepertoire
 
 git init
+
+git log
+git branch nameBranche
+git checkout nameBranche
+git branch
+git merge nameBranche (quand on se situe sur celui ou on recoit)
+git branch -d nameBranche
+git push origin master
